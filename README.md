@@ -1,0 +1,2 @@
+# DIGITAL-FORENSIC-SCENE-RECONSTRUCTION-AND-EVIDENCE-MANAGEMENT-
+ Digital Forensics that involves the systematic identification, collection,  analysis. The purpose of this process is to recreate the sequence of events that occurred during a digital crime. Proper evidence management techniques, including maintaining a chain of custody and using cryptographic hashing, help preserve the integrity of the data.
